@@ -25,5 +25,3 @@ This project demonstrates clean backend development using:
 
 ---
 
-## 📂 Project Structure
-
